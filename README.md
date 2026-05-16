@@ -3,7 +3,7 @@
 ### Aspiring Mobile Developer | React Native & Firebase Enthusiast
 
 🌱 Currently learning **React Native** and **Cloud Technologies**
-🔭 Working on **SMART COW TRACKER** - Farm Management App
+🔭 Working on **SMART COW TRACKER** - Farm Management App and **PQS** - Logistics Dashboard
 💬 Ask me about **JavaScript, React Native, Firebase**
 📫 Email: [witchakorn.thokul@email.com](mailto:witchakorn.thokul@email.com)
 ⚡ Fun fact: I love combining technology with agriculture 🐄
@@ -39,6 +39,10 @@
 - **SMART COW TRACKER** — React Native app for dairy farm management
   - Repo: https://github.com/WitchakornThokul/ACRUX
   - Features: Cow tracking, Health records, Appointments, Assistant management
+
+- **PQS** — Google Apps Script logistics planning and booking dashboard
+  - Repo: https://github.com/WitchakornThokul/PQS
+  - Features: Planning calendar, vehicle booking, user approval, reports, notifications
 
 - **Project Two** — short description
 - **Project Three** — short description
