@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Witchakorn Thokul
+# 👋 Hi, I'm a Developer
 
 ### Aspiring Mobile Developer | React Native & Firebase Enthusiast
 
 🌱 Currently learning **React Native** and **Cloud Technologies**
-🔭 Working on **SMART COW TRACKER** - Farm Management App
+🔭 Working on **SMART COW TRACKER** - Farm Management App and **PQS** - Logistics Dashboard
 💬 Ask me about **JavaScript, React Native, Firebase**
-📫 Email: [witchakorn.thokul@email.com](mailto:witchakorn.thokul@email.com)
+📫 Email: [witchakorn.thokul@email.com](mailto:art992398@email.com)
 ⚡ Fun fact: I love combining technology with agriculture 🐄
 
 ---
@@ -14,16 +14,36 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ---
 
 ### Languages & Tools
 
+**Frontend**
+![HTML](https://img.shields.io/badge/-HTML-E34C26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Slim Framework](https://img.shields.io/badge/-Slim-81C784?logoColor=white)
+
+**Mobile**
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000000?logo=expo&logoColor=white)
+
+**Database**
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Tools**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 
 ---
 
@@ -34,14 +54,15 @@
 
 ---
 
-### Featured Projects
+### Pinned
+
+- **PQS** — Google Apps Script logistics planning and booking dashboard
+  - Repo: https://github.com/WitchakornThokul/PQS
+  - Features: Planning calendar, vehicle booking, user approval, reports, notifications
 
 - **SMART COW TRACKER** — React Native app for dairy farm management
   - Repo: https://github.com/WitchakornThokul/ACRUX
   - Features: Cow tracking, Health records, Appointments, Assistant management
-
-- **Project Two** — short description
-- **Project Three** — short description
 
 ---
 
@@ -49,7 +70,8 @@
 
 You can view my poster here:
 
-[![View Poster](https://img.shields.io/badge/View%20Poster%20-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
+[![View SMART COW TRACKER Poster](https://img.shields.io/badge/View%20Poster%20-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
+[![View PML-PQS Logistics Poster](https://img.shields.io/badge/View%20Poster%20-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1HeC-MrxZyF2orxr88V_linuolvKyxozl/view?usp=drive_link)
 
 ---
 
