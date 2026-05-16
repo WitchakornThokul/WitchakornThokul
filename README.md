@@ -1,12 +1,12 @@
-# 👋 Hi, I'm a Developer
+# 👋 Hi, I'm Witchakorn Thokul
 
 ### Aspiring Mobile Developer | React Native & Firebase Enthusiast
 
 🌱 Currently learning **React Native** and **Cloud Technologies**
-🔭 Working on **SMART COW TRACKER** - Farm Management App and **PQS** - Logistics Dashboard
+🔭 Portfolio **SMART COW TRACKER** - Farm Management App and **PQS** - Logistics Dashboard
 💬 Ask me about **JavaScript, React Native, Firebase**
 📫 Email: [art992398@email.com](mailto:art992398@email.com)
-⚡ Fun fact: I love combining technology with agriculture 🐄
+⚡ Fun fact: Debugging code is harder than herding cows—and I've tried both!
 
 ---
 
