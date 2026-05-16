@@ -53,7 +53,8 @@
 
 You can view my poster here:
 
-[![View Poster](https://img.shields.io/badge/View%20Poster%20-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
+[![View SMART COW TRACKER Poster](https://img.shields.io/badge/View%20Poster%20-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
+[![View PML-PQS Logistics Poster](https://img.shields.io/badge/View%20Poster%20-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1HeC-MrxZyF2orxr88V_linuolvKyxozl/view?usp=drive_link)
 
 ---
 
