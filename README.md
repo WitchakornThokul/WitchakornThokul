@@ -53,13 +53,6 @@
 
 ---
 
-### GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchakornThokul&layout=compact&theme=dark)](https://github.com/WitchakornThokul)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WitchakornThokul&show_icons=true&theme=dark&count_private=true)](https://github.com/WitchakornThokul)
-
----
-
 ### Pinned
 
 - **PQS** — Google Apps Script logistics planning and booking dashboard
