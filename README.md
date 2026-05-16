@@ -44,9 +44,6 @@
   - Repo: https://github.com/WitchakornThokul/ACRUX
   - Features: Cow tracking, Health records, Appointments, Assistant management
 
-- **Project Two** — short description
-- **Project Three** — short description
-
 ---
 
 ### Poster
