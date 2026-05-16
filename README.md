@@ -45,4 +45,12 @@
 
 ---
 
+### Poster
+
+You can view my poster here:
+
+[![View Poster](https://img.shields.io/badge/View%20Poster%20-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
+
+---
+
 Thanks for visiting my profile! ⭐
