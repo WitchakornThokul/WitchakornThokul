@@ -10,7 +10,7 @@
 
 🎯 **Always Exploring:** Cloud technologies, mobile innovations, and agricultural technology challenges
 
-📫 [witchakorn.thokul@email.com](mailto:witchakorn.thokul@email.com) | [GitHub](https://github.com/WitchakornThokul)
+📫 art992398@email.com](mailto:art992398@email.com) | [GitHub](https://github.com/WitchakornThokul)
 
 ⚡ **Fun fact:** Debugging code is harder than herding cows—and I've tried both! 🐄💻
 
