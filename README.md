@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Witchakorn Thokul
+# 👋 Hi, I'm a Developer
 
 ### Aspiring Mobile Developer | React Native & Firebase Enthusiast
 
