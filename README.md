@@ -5,7 +5,7 @@
 🌱 Currently learning **React Native** and **Cloud Technologies**
 🔭 Working on **SMART COW TRACKER** - Farm Management App and **PQS** - Logistics Dashboard
 💬 Ask me about **JavaScript, React Native, Firebase**
-📫 Email: [witchakorn.thokul@email.com](mailto:art992398@email.com)
+📫 Email: [art992398@email.com](mailto:art992398@email.com)
 ⚡ Fun fact: I love combining technology with agriculture 🐄
 
 ---
