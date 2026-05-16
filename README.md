@@ -2,11 +2,17 @@
 
 ### Aspiring Mobile Developer | React Native & Firebase Enthusiast
 
-🌱 Currently learning **React Native** and **Cloud Technologies**
-🔭 Portfolio **SMART COW TRACKER** - Farm Management App and **PQS** - Logistics Dashboard
-💬 Ask me about **JavaScript, React Native, Firebase**
-📫 Email: [art992398@email.com](mailto:art992398@email.com)
-⚡ Fun fact: Debugging code is harder than herding cows—and I've tried both!
+💼 **Portfolio:**
+- 🐄 **SMART COW TRACKER** - Modern farm management app with real-time health tracking
+- 📊 **PQS Logistics** - Intelligent logistics planning and booking system
+
+🔧 **Tech Stack:** React Native | React | Node.js | Firebase | Google Apps Script
+
+🎯 **Always Exploring:** Cloud technologies, mobile innovations, and agricultural technology challenges
+
+📫 [witchakorn.thokul@email.com](mailto:witchakorn.thokul@email.com) | [GitHub](https://github.com/WitchakornThokul)
+
+⚡ **Fun fact:** Debugging code is harder than herding cows—and I've tried both! 🐄💻
 
 ---
 
