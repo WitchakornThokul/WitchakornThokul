@@ -34,15 +34,15 @@
 
 ---
 
-### Featured Projects
-
-- **SMART COW TRACKER** — React Native app for dairy farm management
-  - Repo: https://github.com/WitchakornThokul/ACRUX
-  - Features: Cow tracking, Health records, Appointments, Assistant management
+### Pinned
 
 - **PQS** — Google Apps Script logistics planning and booking dashboard
   - Repo: https://github.com/WitchakornThokul/PQS
   - Features: Planning calendar, vehicle booking, user approval, reports, notifications
+
+- **SMART COW TRACKER** — React Native app for dairy farm management
+  - Repo: https://github.com/WitchakornThokul/ACRUX
+  - Features: Cow tracking, Health records, Appointments, Assistant management
 
 - **Project Two** — short description
 - **Project Three** — short description
