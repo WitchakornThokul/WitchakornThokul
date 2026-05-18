@@ -94,8 +94,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WitchakornThokul&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitchakornThokul&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WitchakornThokul&theme=react" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WitchakornThokul&theme=react" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WitchakornThokul&theme=react" height="180em"/>
 
 </div>
 
@@ -105,18 +107,21 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WitchakornThokul&theme=react-dark&hide_border=true" width="100%"/>
+
+</div>
+
 ---
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/WitchakornThokul/ACRUX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WitchakornThokul&repo=ACRUX&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/WitchakornThokul/PQS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WitchakornThokul&repo=PQS&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
+[![ACRUX](https://github-widgetbox.vercel.app/api/repository?username=WitchakornThokul&repository=ACRUX&theme=serika_dark)](https://github.com/WitchakornThokul/ACRUX)
+
+[![PQS](https://github-widgetbox.vercel.app/api/repository?username=WitchakornThokul&repository=PQS&theme=serika_dark)](https://github.com/WitchakornThokul/PQS)
 
 </div>
 
