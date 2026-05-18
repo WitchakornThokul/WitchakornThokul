@@ -32,6 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Angular]([https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white](https://images.icon-icons.com/2699/PNG/512/angular_logo_icon_169595.png))
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
