@@ -58,6 +58,7 @@ Passionate developer building innovative solutions in **React Native**, **Full-s
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?logo=google-apps-script&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
