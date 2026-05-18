@@ -1,87 +1,158 @@
-# 👋 Hi, I'm Witchakorn
+<div align="center">
 
-### ✨ Aspiring Mobile Developer | React Native & Firebase Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Witchakorn%20Thokul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20Developer%20%7C%20React%20Native%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-Passionate developer building innovative solutions in **React Native**, **Full-stack JavaScript**, and **Cloud Technologies**. 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+Witchakorn;📱+Aspiring+Mobile+Developer;⚛️+React+Native+%26+Firebase+Enthusiast;🌐+Full-Stack+JavaScript+Developer;🚀+Always+Learning+%26+Building!" alt="Typing SVG" />
 
-💼 **ผลงาน (Portfolio):**
-- 🐄 **SMART COW TRACKER** - Modern farm management app with real-time health tracking
-- 📊 **PQS Logistics** - Intelligent logistics planning and booking system
+[![Profile Views](https://komarev.com/ghpvc/?username=WitchakornThokul&color=61DAFB&style=flat-square&label=Profile+Views)](https://github.com/WitchakornThokul)
+[![GitHub followers](https://img.shields.io/github/followers/WitchakornThokul?style=flat-square&color=61DAFB&label=Followers)](https://github.com/WitchakornThokul?tab=followers)
 
-🔧 **Tech Stack:** React Native | React | Node.js | Firebase | Google Apps Script
-
-🎯 **Always Exploring:** Cloud technologies, mobile innovations
-
-📫 [art992398@email.com](mailto:art992398@email.com) | [GitHub](https://github.com/WitchakornThokul)
-
-⚡ **Fun fact:** Debugging code is harder than herding cows—and I've tried both! 🐄💻
+</div>
 
 ---
 
-### Connect with me
+## 🚀 About Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://web.facebook.com/tokki.once)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/mimosa_4103/)
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
----
+- 🎯 Aspiring **Mobile Developer** specializing in **React Native**
+- 💻 Passionate about **Full-stack JavaScript** & **Cloud Technologies**
+- 🐄 Creator of **SMART COW TRACKER** — where farm meets tech!
+- 📊 Developer of **PQS Logistics** — intelligent logistics planning
+- 🌱 Always exploring new **mobile innovations** & **cloud solutions**
+- ⚡ *Fun fact:* Debugging code is harder than herding cows 🐄💻
+- 📫 Contact me: **[art992398@email.com](mailto:art992398@email.com)**
 
-### Languages & Tools
-
-**Frontend**
-[![HTML](https://img.shields.io/badge/-HTML-E34C26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](https://angular.dev/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-**Backend**
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![Slim Framework](https://img.shields.io/badge/-Slim-81C784?logoColor=white)](https://www.slimframework.com/)
-
-**Mobile**
-[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
-[![Expo](https://img.shields.io/badge/-Expo-000000?logo=expo&logoColor=white)](https://expo.dev/)
-
-**Database**
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-**Tools**
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
-[![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)](https://www.canva.com/)
-[![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
-[![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?logo=google-apps-script&logoColor=white)](https://developers.google.com/apps-script)
-[![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=googlesheets&logoColor=white)](https://workspace.google.com/products/sheets/)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
+<br clear="right"/>
 
 ---
 
-### Pinned
+## 🛠️ Tech Stack
 
-- **PQS** — Google Apps Script logistics planning and booking dashboard
-  - Repo: https://github.com/WitchakornThokul/PQS
-  - Features: Planning calendar, vehicle booking, user approval, reports, notifications
+<details open>
+<summary><b>📱 Mobile</b></summary>
+<br>
 
-- **SMART COW TRACKER** — React Native app for dairy farm management
-  - Repo: https://github.com/WitchakornThokul/ACRUX
-  - Features: Cow tracking, Health records, Appointments, Assistant management
-  - Demo Video: https://youtu.be/uTIGElkRXKc
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+
+</details>
+
+<details open>
+<summary><b>🌐 Frontend</b></summary>
+<br>
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Slim Framework](https://img.shields.io/badge/Slim_Framework-81C784?style=for-the-badge&logoColor=white)](https://www.slimframework.com/)
+[![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/apps-script)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Cloud</b></summary>
+<br>
+
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Others</b></summary>
+<br>
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/products/sheets/)
+
+</details>
 
 ---
 
-### Poster
+## 📊 GitHub Stats
 
-You can view my poster here:
+<div align="center">
 
-[![View SMART COW TRACKER Poster](https://img.shields.io/badge/View%20Poster%20-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
-[![View PML-PQS Logistics Poster](https://img.shields.io/badge/View%20Poster%20-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1HeC-MrxZyF2orxr88V_linuolvKyxozl/view?usp=drive_link)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WitchakornThokul&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitchakornThokul&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=WitchakornThokul&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&fire=61DAFB&ring=61DAFB" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-Thanks for visiting my profile! ⭐
+## 🎯 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/WitchakornThokul/ACRUX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WitchakornThokul&repo=ACRUX&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/WitchakornThokul/PQS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WitchakornThokul&repo=PQS&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
+</div>
+
+### 🐄 SMART COW TRACKER
+> Modern dairy farm management app with real-time health tracking
+
+- **Stack:** React Native · Expo · Firebase
+- **Features:** Cow tracking, Health records, Appointments, Assistant management
+- 📺 [Demo Video](https://youtu.be/uTIGElkRXKc) &nbsp;|&nbsp; 📄 [![View Poster](https://img.shields.io/badge/Poster-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
+
+### 📊 PQS Logistics
+> Intelligent logistics planning and booking dashboard
+
+- **Stack:** Google Apps Script · Google Sheets
+- **Features:** Planning calendar, Vehicle booking, User approval, Reports, Notifications
+- 📄 [![View Poster](https://img.shields.io/badge/Poster-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HeC-MrxZyF2orxr88V_linuolvKyxozl/view?usp=drive_link)
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:art992398@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WitchakornThokul)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/tokki.once)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mimosa_4103/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*Thanks for visiting my profile! Don't forget to ⭐ some repos if you find them useful!*
+
+</div>
