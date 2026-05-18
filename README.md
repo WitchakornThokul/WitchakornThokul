@@ -10,7 +10,7 @@ Passionate developer building innovative solutions in **React Native**, **Full-s
 
 🔧 **Tech Stack:** React Native | React | Node.js | Firebase | Google Apps Script
 
-🎯 **Always Exploring:** Cloud technologies, mobile innovations, and agricultural technology challenges
+🎯 **Always Exploring:** Cloud technologies, mobile innovations
 
 📫 [art992398@email.com](mailto:art992398@email.com) | [GitHub](https://github.com/WitchakornThokul)
 
