@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Witchakorn%20Thokul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20Developer%20%7C%20React%20Native%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+Witchakorn;📱+Aspiring+Mobile+Developer;⚛️+React+Native+%26+Firebase+Enthusiast;🌐+Full-Stack+JavaScript+Developer;🚀+Always+Learning+%26+Building!" alt="Typing SVG" />
-
 [![Profile Views](https://komarev.com/ghpvc/?username=WitchakornThokul&color=61DAFB&style=flat-square&label=Profile+Views)](https://github.com/WitchakornThokul)
 [![GitHub followers](https://img.shields.io/github/followers/WitchakornThokul?style=flat-square&color=61DAFB&label=Followers)](https://github.com/WitchakornThokul?tab=followers)
 
@@ -118,10 +116,6 @@
 ## 🎯 Featured Projects
 
 <div align="center">
-
-[![ACRUX](https://github-widgetbox.vercel.app/api/repository?username=WitchakornThokul&repository=ACRUX&theme=serika_dark)](https://github.com/WitchakornThokul/ACRUX)
-
-[![PQS](https://github-widgetbox.vercel.app/api/repository?username=WitchakornThokul&repository=PQS&theme=serika_dark)](https://github.com/WitchakornThokul/PQS)
 
 </div>
 
