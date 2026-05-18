@@ -1,16 +1,18 @@
-# 👋 Hi, I'm Witchakorn Thokul
+# 👋 Hi, I'm Witchakorn
 
-### Aspiring Mobile Developer | React Native & Firebase Enthusiast
+### ✨ Aspiring Mobile Developer | React Native & Firebase Enthusiast
 
-💼 **Portfolio:**
+Passionate developer building innovative solutions in **React Native**, **Full-stack JavaScript**, and **Cloud Technologies**. 
+
+💼 **ผลงาน (Portfolio):**
 - 🐄 **SMART COW TRACKER** - Modern farm management app with real-time health tracking
 - 📊 **PQS Logistics** - Intelligent logistics planning and booking system
 
 🔧 **Tech Stack:** React Native | React | Node.js | Firebase | Google Apps Script
 
-🎯 **Always Exploring:** Cloud technologies, mobile innovations
+🎯 **Always Exploring:** Cloud technologies, mobile innovations, and agricultural technology challenges
 
-📫 art992398@email.com | [GitHub](https://github.com/WitchakornThokul)
+📫 [witchakorn.thokul@email.com](mailto:witchakorn.thokul@email.com) | [GitHub](https://github.com/WitchakornThokul)
 
 ⚡ **Fun fact:** Debugging code is harder than herding cows—and I've tried both! 🐄💻
 
@@ -18,8 +20,8 @@
 
 ### Connect with me
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://web.facebook.com/tokki.once)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/mimosa_4103/)
 
 ---
 
@@ -32,7 +34,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-![Angular]([https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white](https://images.icon-icons.com/2699/PNG/512/angular_logo_icon_169595.png))
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -63,7 +66,6 @@
 - **SMART COW TRACKER** — React Native app for dairy farm management
   - Repo: https://github.com/WitchakornThokul/ACRUX
   - Features: Cow tracking, Health records, Appointments, Assistant management
-  - demo video: https://youtu.be/uTIGElkRXKc
 
 ---
 
