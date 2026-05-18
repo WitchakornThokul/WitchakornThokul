@@ -71,6 +71,7 @@ Passionate developer building innovative solutions in **React Native**, **Full-s
 - **SMART COW TRACKER** — React Native app for dairy farm management
   - Repo: https://github.com/WitchakornThokul/ACRUX
   - Features: Cow tracking, Health records, Appointments, Assistant management
+  - Demo Video: https://youtu.be/uTIGElkRXKc
 
 ---
 
