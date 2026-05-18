@@ -1,19 +1,27 @@
-# 👋 Hi, I'm a Developer
+# 👋 Hi, I'm Witchakorn
 
-### Aspiring Mobile Developer | React Native & Firebase Enthusiast
+### ✨ Aspiring Mobile Developer | React Native & Firebase Enthusiast
 
-🌱 Currently learning **React Native** and **Cloud Technologies**
-🔭 Working on **SMART COW TRACKER** - Farm Management App and **PQS** - Logistics Dashboard
-💬 Ask me about **JavaScript, React Native, Firebase**
-📫 Email: [witchakorn.thokul@email.com](mailto:art992398@email.com)
-⚡ Fun fact: I love combining technology with agriculture 🐄
+Passionate developer building innovative solutions in **React Native**, **Full-stack JavaScript**, and **Cloud Technologies**. 
+
+💼 **ผลงาน (Portfolio):**
+- 🐄 **SMART COW TRACKER** - Modern farm management app with real-time health tracking
+- 📊 **PQS Logistics** - Intelligent logistics planning and booking system
+
+🔧 **Tech Stack:** React Native | React | Node.js | Firebase | Google Apps Script
+
+🎯 **Always Exploring:** Cloud technologies, mobile innovations, and agricultural technology challenges
+
+📫 [witchakorn.thokul@email.com](mailto:witchakorn.thokul@email.com) | [GitHub](https://github.com/WitchakornThokul)
+
+⚡ **Fun fact:** Debugging code is harder than herding cows—and I've tried both! 🐄💻
 
 ---
 
 ### Connect with me
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://web.facebook.com/tokki.once)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/mimosa_4103/)
 
 ---
 
@@ -26,9 +34,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Slim Framework](https://img.shields.io/badge/-Slim-81C784?logoColor=white)
 
@@ -39,18 +50,14 @@
 **Database**
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 **Tools**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
-
----
-
-### GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchakornThokul&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WitchakornThokul&show_icons=true)
+![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?logo=google-apps-script&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
 
 ---
 
