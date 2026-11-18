@@ -1,149 +1,136 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" alt="Witchakorn Thokul - Full-Stack Developer" width="100%"/>
+</p>
 
-# Witchakorn Thokul
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=720&lines=Building+internal+platforms+used+daily+by+operations+teams;Moved+5+production+systems+from+Vercel+to+Cloudflare+in+3+days;Realtime+over+polling.+Less+CPU%2C+faster+screens." alt="Summary"/></a>
+</p>
 
-**Full-Stack Developer · Enterprise Web Systems · Mobile (React Native)**
+<p align="center">
+  <a href="https://witchakorn-web.vercel.app"><img src="https://img.shields.io/badge/Portfolio-witchakorn--web.vercel.app-0f172a?style=for-the-badge&labelColor=38bdf8&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:art992398@email.com"><img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Status-Open_to_opportunities-0f172a?style=for-the-badge&labelColor=16a34a" alt="Open to opportunities"/>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-art992398%40email.com-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:art992398@email.com)
-[![GitHub followers](https://img.shields.io/github/followers/WitchakornThokul?style=flat-square&color=24292F&label=Followers)](https://github.com/WitchakornThokul?tab=followers)
+<br/>
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>About</h3>
+      <p>Full-stack developer building the internal systems a manufacturing and logistics business runs on: transport planning, KPI dashboards, document workflows and ESG disclosure.</p>
+      <p>I care about systems that stay fast and cheap to run, ship in small safe steps through DEMO and PRD environments, and replace spreadsheets people have outgrown.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>At a glance</h3>
+      <table>
+        <tr><td><b>6</b></td><td>production systems maintained</td></tr>
+        <tr><td><b>230+</b></td><td>commits on one platform in Nov 2026</td></tr>
+        <tr><td><b>1</b></td><td>central sign-on across every app</td></tr>
+        <tr><td><b>3</b></td><td>branches visualized in a 3D yard view</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
----
+## What I am building
 
-## About
+Six systems under one company domain with a single sign-on portal in front. Five moved from Vercel to Cloudflare in November 2026.
 
-Full-stack developer building internal business systems for a manufacturing and logistics organization, from planning and transport operations to KPI dashboards and ESG disclosure.
+```mermaid
+flowchart LR
+    U([Staff]) --> P{{Central Portal<br/>SSO}}
+    P --> L[Smart Logistics]
+    P --> D[DocAlert]
+    P --> K[Business Dashboard]
+    P --> M[Mini Dashboard]
+    P --> E[ESG Disclosure]
+    L -->|Realtime| S[(Supabase<br/>PostgreSQL)]
+    D --> S
+    K --> G[(Automated<br/>collectors)]
+    M --> G
+    E --> X[(Google Sheets)]
 
-- Design, build and operate production web applications used daily by operations, sales and management teams
-- Lead migration of six production systems from Vercel to Cloudflare (Pages and Workers) under a single company domain with central sign-on
-- Focus on reliability and cost: realtime updates in place of polling, reduced database load, staged DEMO and PRD environments
-- Background in mobile development with React Native and Expo
+    classDef hub fill:#0f172a,stroke:#38bdf8,color:#f8fafc,stroke-width:2px;
+    classDef app fill:#111827,stroke:#475569,color:#e2e8f0;
+    classDef data fill:#1e293b,stroke:#818cf8,color:#e2e8f0;
+    class P hub;
+    class L,D,K,M,E app;
+    class S,G,X data;
+```
 
----
-
-## Current Work: Enterprise Systems Portfolio
-
-Six production systems, all running on Cloudflare as of November 2026.
-
-| System | Purpose | Platform |
+| System | What it does | Built with |
 |---|---|---|
-| **Smart Logistics Platform** | Transport planning from sales orders, vehicle booking calendar, weighbridge ticket matching, shipment status tracking | Cloudflare Workers + Pages, Supabase |
-| **DocAlert** | Document and contract renewal tracking with approval workflow and email notifications | Cloudflare Pages, Supabase |
-| **Smart Business Dashboard** | Company KPI dashboard with task-oriented navigation and automated data collectors | Cloudflare Pages |
-| **Mini Business Dashboard** | Lightweight KPI view with role-based manual overrides for automated metrics | Cloudflare Pages |
-| **Central Portal (SSO)** | Single sign-on entry point for all internal applications | Cloudflare Pages |
-| **ESG Disclosure Site** | Bilingual (Thai / English) ESG reporting across five categories | React, Vite |
+| **Smart Logistics Platform** | Transport planning from sales orders, vehicle booking calendar, weighbridge ticket matching, shipment tracking | Cloudflare Workers, Supabase Realtime |
+| **Central Portal (SSO)** | One sign-in and launcher for every internal app | Cloudflare Pages |
+| **DocAlert** | Contract and document renewals with approvals and email alerts | Cloudflare Pages, Supabase |
+| **Smart Business Dashboard** | Company KPIs, task-first navigation, collector health view | Cloudflare Pages |
+| **Mini Business Dashboard** | Lightweight KPI view with role-based overrides | Cloudflare Pages |
+| **ESG Disclosure Site** | Bilingual Thai / English ESG reporting across five categories | React, Vite, Google Sheets |
 
-### Smart Logistics Platform
+<details>
+<summary><b>Recent engineering notes from the Smart Logistics Platform</b></summary>
+<br/>
 
-Replaced a Google Apps Script tool with a full web application; 230+ commits in November 2026 alone.
+- **Platform migration.** Moved DEMO and PRD from Vercel to Cloudflare Workers and Pages, including scheduled jobs, with the legacy app redirecting users to the new one.
+- **Performance.** Replaced 30-second polling with Supabase Realtime, throttled shared-data refresh to once a minute, and batched notification queries into a single round trip.
+- **Planning.** Plan directly from sales orders with over-quantity warnings, provisional loading dates and storage jobs that do not need an order.
+- **Operations.** Automatic weighbridge ticket matching, per-trip shipment numbers with attachments, weekly summaries and bulk cancellation with reasons.
+- **Security.** Least-privilege database role for the web app, access logging and rotated SSO secrets.
 
-- **Platform migration** — moved DEMO and PRD from Vercel to Cloudflare Workers and Pages, including scheduled jobs; legacy app redirects users to the new system
-- **Performance** — replaced 30-second polling with Supabase Realtime, throttled shared-data refresh, and batched notification queries to cut CPU usage
-- **Planning** — plan directly from sales orders with over-quantity warnings, provisional loading dates, and storage jobs without an order
-- **Weighbridge** — automatic ticket matching and monthly product summaries
-- **Operations** — per-trip and per-step shipment numbers with attachments, weekly calendar summaries, bulk cancellation with reasons
-- **Reporting** — logistics and sales reports aligned to updated business rules
-- **Visualization** — 3D yard layout for three branches
-- **Security** — dedicated least-privilege database role for the web application and access logging
+</details>
 
-### Central Portal (SSO)
+## Featured projects
 
-- Redesigned sign-in page and unified application launcher
-- Rotated SSO secrets during the Cloudflare migration and verified sign-in to every connected application
-- Per-application sign-out that keeps the central session intact
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/WitchakornThokul/Smart-Cow-Tracker"><img src="https://res.cloudinary.com/dgh4ndaru/image/upload/c_fill,g_north,w_800,h_500/v1778949911/Witchakorn_Poster_jbtl7j.jpg" alt="Smart Cow Tracker" width="100%"/></a>
+      <h3>Smart Cow Tracker</h3>
+      <p>Dairy farm management app with real-time health tracking, records, appointments and assistant management.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>Firebase</code></p>
+      <p><a href="https://youtu.be/uTIGElkRXKc">Demo video</a> · <a href="https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link">Poster</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/WitchakornThokul/PQS"><img src="https://res.cloudinary.com/dgh4ndaru/image/upload/c_fill,g_north,w_800,h_500/v1778949911/InternshipPoster_Witchakorn_tunckf.jpg" alt="PQS Logistics v1" width="100%"/></a>
+      <h3>PQS Logistics (v1)</h3>
+      <p>The original planning and vehicle booking tool, with approvals and reports, that grew into the Smart Logistics Platform.</p>
+      <p><code>Google Apps Script</code> <code>Google Sheets</code></p>
+      <p><a href="https://drive.google.com/file/d/1HeC-MrxZyF2orxr88V_linuolvKyxozl/view?usp=drive_link">Poster</a></p>
+    </td>
+  </tr>
+</table>
 
-### DocAlert
+## Tech stack
 
-- Feature parity with the legacy system: renewals, approvals, automatic status, deep links from email, and legacy data import
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css&theme=dark" alt="Languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,angular,bootstrap&theme=dark" alt="Frontend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase,mysql,mongodb&theme=dark" alt="Backend and data"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,git,github,postman,figma&theme=dark" alt="Cloud and tools"/>
+</p>
 
-### Business Dashboards
+<sub>Also: React Native, Expo, Google Apps Script, Google Sheets, Slim Framework.</sub>
 
-- Reorganized navigation by task, a home page that surfaces items needing attention, and an admin view of data collector health
-- Role-based editing of automatically collected KPI values for admin, manager and QA users
+## GitHub activity
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WitchakornThokul&theme=github_dark" height="165" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WitchakornThokul&theme=github_dark" height="165" alt="Most used languages"/>
+</p>
 
-## Featured Projects
-
-### Smart Cow Tracker
-
-Dairy farm management mobile app with real-time health tracking.
-
-- **Stack:** React Native, Expo, Firebase
-- **Features:** cow tracking, health records, appointments, assistant management
-- [Demo video](https://youtu.be/uTIGElkRXKc) · [Poster](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
-
-### PQS Logistics (v1)
-
-The original logistics planning and booking tool that preceded the Smart Logistics Platform.
-
-- **Stack:** Google Apps Script, Google Sheets
-- **Features:** planning calendar, vehicle booking, user approval, reports, notifications
-- [Poster](https://drive.google.com/file/d/1HeC-MrxZyF2orxr88V_linuolvKyxozl/view?usp=drive_link)
-
----
-
-## Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frontend and Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-**Backend, Data and Cloud**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Automation and Tools**
-
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WitchakornThokul&theme=github_dark" height="165" alt="GitHub stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WitchakornThokul&theme=github_dark" height="165" alt="Most used languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WitchakornThokul&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Contribution graph"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WitchakornThokul&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_border=true" width="100%" alt="Contribution graph"/>
+</p>
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:art992398@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/WitchakornThokul)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/tokki.once)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mimosa_4103/)
+<p>
+  <a href="mailto:art992398@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://witchakorn-web.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://web.facebook.com/tokki.once"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/mimosa_4103/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>

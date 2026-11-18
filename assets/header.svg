@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Witchakorn Thokul - Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f17"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1f2937" stroke-width="1"/>
+    </pattern>
+    <style>
+      .t { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .edge { stroke: #334155; stroke-width: 1.5; stroke-dasharray: 4 6; animation: flow 3s linear infinite; }
+      .node { fill: #0b0f17; stroke: #38bdf8; stroke-width: 2; }
+      .hub { fill: #0b0f17; stroke: url(#accent); stroke-width: 3; }
+      .pulse { fill: #38bdf8; opacity: 0.25; animation: pulse 2.6s ease-in-out infinite; transform-origin: 960px 160px; }
+      .lbl { fill: #94a3b8; font-size: 12px; letter-spacing: 0.5px; }
+      @keyframes flow { to { stroke-dashoffset: -20; } }
+      @keyframes pulse { 0%, 100% { transform: scale(1); opacity: 0.25; } 50% { transform: scale(1.35); opacity: 0.05; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)" opacity="0.6"/>
+  <circle cx="960" cy="160" r="220" fill="url(#glow)"/>
+
+  <!-- Left: identity -->
+  <rect x="64" y="72" width="6" height="176" rx="3" fill="url(#accent)"/>
+  <text x="96" y="110" class="t" fill="#38bdf8" font-size="15" font-weight="600" letter-spacing="3">FULL-STACK DEVELOPER</text>
+  <text x="94" y="168" class="t" fill="#f8fafc" font-size="54" font-weight="700">Witchakorn Thokul</text>
+  <text x="96" y="208" class="t" fill="#cbd5e1" font-size="20">Enterprise web systems on Cloudflare and Supabase</text>
+  <text x="96" y="240" class="t" fill="#64748b" font-size="16">React · TypeScript · Node.js · React Native · Google Apps Script</text>
+
+  <!-- Right: system map (portal hub with connected apps) -->
+  <g>
+    <line class="edge" x1="960" y1="160" x2="840" y2="80"/>
+    <line class="edge" x1="960" y1="160" x2="1080" y2="80"/>
+    <line class="edge" x1="960" y1="160" x2="820" y2="200"/>
+    <line class="edge" x1="960" y1="160" x2="1100" y2="200"/>
+    <line class="edge" x1="960" y1="160" x2="900" y2="270"/>
+    <line class="edge" x1="960" y1="160" x2="1030" y2="270"/>
+
+    <circle class="pulse" cx="960" cy="160" r="38"/>
+    <circle class="hub" cx="960" cy="160" r="30"/>
+    <text x="960" y="165" class="t" fill="#f8fafc" font-size="13" font-weight="700" text-anchor="middle">SSO</text>
+
+    <circle class="node" cx="840" cy="80" r="9"/>
+    <circle class="node" cx="1080" cy="80" r="9"/>
+    <circle class="node" cx="820" cy="200" r="9"/>
+    <circle class="node" cx="1100" cy="200" r="9"/>
+    <circle class="node" cx="900" cy="270" r="9"/>
+    <circle class="node" cx="1030" cy="270" r="9"/>
+
+    <text x="840" y="62" class="t lbl" text-anchor="middle">LOGISTICS</text>
+    <text x="1080" y="62" class="t lbl" text-anchor="middle">DOCALERT</text>
+    <text x="820" y="228" class="t lbl" text-anchor="middle">DASHBOARD</text>
+    <text x="1100" y="228" class="t lbl" text-anchor="middle">MINI KPI</text>
+    <text x="900" y="298" class="t lbl" text-anchor="middle">ESG</text>
+    <text x="1030" y="298" class="t lbl" text-anchor="middle">AI AGENT</text>
+  </g>
+</svg>
