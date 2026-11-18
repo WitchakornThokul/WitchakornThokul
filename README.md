@@ -103,17 +103,54 @@ flowchart LR
 
 ## Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css&theme=dark" alt="Languages"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,angular,bootstrap&theme=dark" alt="Frontend"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase,mysql,mongodb&theme=dark" alt="Backend and data"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,git,github,postman,figma&theme=dark" alt="Cloud and tools"/>
-</p>
-
-<sub>Also: React Native, Expo, Google Apps Script, Google Sheets, Slim Framework.</sub>
+<table>
+  <tr>
+    <td width="150"><b>Languages</b></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="44" height="44" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=js" width="44" height="44" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="44" height="44" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=php" width="44" height="44" alt="PHP"/><br/><sub>PHP</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=html" width="44" height="44" alt="HTML"/><br/><sub>HTML</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=css" width="44" height="44" alt="CSS"/><br/><sub>CSS</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>Frontend</b></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=react" width="44" height="44" alt="React"/><br/><sub>React</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=nextjs" width="44" height="44" alt="Next.js"/><br/><sub>Next.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=vite" width="44" height="44" alt="Vite"/><br/><sub>Vite</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=tailwind" width="44" height="44" alt="Tailwind CSS"/><br/><sub>Tailwind CSS</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=angular" width="44" height="44" alt="Angular"/><br/><sub>Angular</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=bootstrap" width="44" height="44" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>Mobile</b></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=react" width="44" height="44" alt="React Native"/><br/><sub>React Native</sub></td>
+    <td align="center" width="96"><img src="assets/icons/expo.svg" width="44" height="44" alt="Expo"/><br/><sub>Expo</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>Backend and Data</b></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=nodejs" width="44" height="44" alt="Node.js"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=supabase" width="44" height="44" alt="Supabase"/><br/><sub>Supabase</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=postgres" width="44" height="44" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=firebase" width="44" height="44" alt="Firebase"/><br/><sub>Firebase</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" width="44" height="44" alt="MySQL"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=mongodb" width="44" height="44" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>Cloud and DevOps</b></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=cloudflare" width="44" height="44" alt="Cloudflare"/><br/><sub>Cloudflare</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="44" height="44" alt="Vercel"/><br/><sub>Vercel</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="44" height="44" alt="Git"/><br/><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="44" height="44" alt="GitHub"/><br/><sub>GitHub</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>Automation and Tools</b></td>
+    <td align="center" width="96"><img src="assets/icons/googleappsscript.svg" width="44" height="44" alt="Apps Script"/><br/><sub>Apps Script</sub></td>
+    <td align="center" width="96"><img src="assets/icons/googlesheets.svg" width="44" height="44" alt="Google Sheets"/><br/><sub>Google Sheets</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=postman" width="44" height="44" alt="Postman"/><br/><sub>Postman</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=figma" width="44" height="44" alt="Figma"/><br/><sub>Figma</sub></td>
+  </tr>
+</table>
 
 ## Contact
 
