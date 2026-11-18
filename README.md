@@ -1,157 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Witchakorn%20Thokul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20Developer%20%7C%20React%20Native%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+# Witchakorn Thokul
 
-[![Profile Views](https://komarev.com/ghpvc/?username=WitchakornThokul&color=61DAFB&style=flat-square&label=Profile+Views)](https://github.com/WitchakornThokul)
-[![GitHub followers](https://img.shields.io/github/followers/WitchakornThokul?style=flat-square&color=61DAFB&label=Followers)](https://github.com/WitchakornThokul?tab=followers)
+**Full-Stack Developer · Enterprise Web Systems · Mobile (React Native)**
 
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-- 🎯 Aspiring **Mobile Developer** specializing in **React Native**
-- 💻 Passionate about **Full-stack JavaScript** & **Cloud Technologies**
-- 🐄 Creator of **SMART COW TRACKER** — where farm meets tech!
-- 📊 Developer of **PQS Logistics** — intelligent logistics planning
-- 🌱 Always exploring new **mobile innovations** & **cloud solutions**
-- ⚡ *Fun fact:* Debugging code is harder than herding cows 🐄💻
-- 📫 Contact me: **[art992398@email.com](mailto:art992398@email.com)**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>📱 Mobile</b></summary>
-<br>
-
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
-
-</details>
-
-<details open>
-<summary><b>🌐 Frontend</b></summary>
-<br>
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br>
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Slim Framework](https://img.shields.io/badge/Slim_Framework-81C784?style=for-the-badge&logoColor=white)](https://www.slimframework.com/)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
-<br>
-
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Others</b></summary>
-<br>
-
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
-[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/products/sheets/)
-[![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/apps-script)
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WitchakornThokul&theme=react" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WitchakornThokul&theme=react" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WitchakornThokul&theme=react" height="180em"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=WitchakornThokul&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&fire=61DAFB&ring=61DAFB" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WitchakornThokul&theme=react-dark&hide_border=true" width="100%"/>
+[![Email](https://img.shields.io/badge/Email-art992398%40email.com-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:art992398@email.com)
+[![GitHub followers](https://img.shields.io/github/followers/WitchakornThokul?style=flat-square&color=24292F&label=Followers)](https://github.com/WitchakornThokul?tab=followers)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## About
 
-<div align="center">
+Full-stack developer building internal business systems for a manufacturing and logistics organization, from planning and transport operations to KPI dashboards and ESG disclosure.
 
-</div>
-
-### 🐄 SMART COW TRACKER
-> Modern dairy farm management app with real-time health tracking
-
-- **Stack:** React Native · Expo · Firebase
-- **Features:** Cow tracking, Health records, Appointments, Assistant management
-- 📺 [Demo Video](https://youtu.be/uTIGElkRXKc) &nbsp;|&nbsp; 📄 [![View Poster](https://img.shields.io/badge/Poster-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
-
-### 📊 PQS Logistics
-> Intelligent logistics planning and booking dashboard
-
-- **Stack:** Google Apps Script · Google Sheets
-- **Features:** Planning calendar, Vehicle booking, User approval, Reports, Notifications
-- 📄 [![View Poster](https://img.shields.io/badge/Poster-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HeC-MrxZyF2orxr88V_linuolvKyxozl/view?usp=drive_link)
+- Design, build and operate production web applications used daily by operations, sales and management teams
+- Lead migration of six production systems from Vercel to Cloudflare (Pages and Workers) under a single company domain with central sign-on
+- Focus on reliability and cost: realtime updates in place of polling, reduced database load, staged DEMO and PRD environments
+- Background in mobile development with React Native and Expo
 
 ---
 
-## 🤝 Connect with Me
+## Current Work: Enterprise Systems Portfolio
+
+Six production systems, all running on Cloudflare as of November 2026.
+
+| System | Purpose | Platform |
+|---|---|---|
+| **Smart Logistics Platform** | Transport planning from sales orders, vehicle booking calendar, weighbridge ticket matching, shipment status tracking | Cloudflare Workers + Pages, Supabase |
+| **DocAlert** | Document and contract renewal tracking with approval workflow and email notifications | Cloudflare Pages, Supabase |
+| **Smart Business Dashboard** | Company KPI dashboard with task-oriented navigation and automated data collectors | Cloudflare Pages |
+| **Mini Business Dashboard** | Lightweight KPI view with role-based manual overrides for automated metrics | Cloudflare Pages |
+| **Central Portal (SSO)** | Single sign-on entry point for all internal applications | Cloudflare Pages |
+| **ESG Disclosure Site** | Bilingual (Thai / English) ESG reporting across five categories | React, Vite |
+
+### Smart Logistics Platform
+
+Replaced a Google Apps Script tool with a full web application; 230+ commits in November 2026 alone.
+
+- **Platform migration** — moved DEMO and PRD from Vercel to Cloudflare Workers and Pages, including scheduled jobs; legacy app redirects users to the new system
+- **Performance** — replaced 30-second polling with Supabase Realtime, throttled shared-data refresh, and batched notification queries to cut CPU usage
+- **Planning** — plan directly from sales orders with over-quantity warnings, provisional loading dates, and storage jobs without an order
+- **Weighbridge** — automatic ticket matching and monthly product summaries
+- **Operations** — per-trip and per-step shipment numbers with attachments, weekly calendar summaries, bulk cancellation with reasons
+- **Reporting** — logistics and sales reports aligned to updated business rules
+- **Visualization** — 3D yard layout for three branches
+- **Security** — dedicated least-privilege database role for the web application and access logging
+
+### Central Portal (SSO)
+
+- Redesigned sign-in page and unified application launcher
+- Rotated SSO secrets during the Cloudflare migration and verified sign-in to every connected application
+- Per-application sign-out that keeps the central session intact
+
+### DocAlert
+
+- Feature parity with the legacy system: renewals, approvals, automatic status, deep links from email, and legacy data import
+
+### Business Dashboards
+
+- Reorganized navigation by task, a home page that surfaces items needing attention, and an admin view of data collector health
+- Role-based editing of automatically collected KPI values for admin, manager and QA users
+
+---
+
+## Featured Projects
+
+### Smart Cow Tracker
+
+Dairy farm management mobile app with real-time health tracking.
+
+- **Stack:** React Native, Expo, Firebase
+- **Features:** cow tracking, health records, appointments, assistant management
+- [Demo video](https://youtu.be/uTIGElkRXKc) · [Poster](https://drive.google.com/file/d/1XQKEonFqFlDZqEPxyeqIkxalqGy50DhL/view?usp=drive_link)
+
+### PQS Logistics (v1)
+
+The original logistics planning and booking tool that preceded the Smart Logistics Platform.
+
+- **Stack:** Google Apps Script, Google Sheets
+- **Features:** planning calendar, vehicle booking, user approval, reports, notifications
+- [Poster](https://drive.google.com/file/d/1HeC-MrxZyF2orxr88V_linuolvKyxozl/view?usp=drive_link)
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend and Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Backend, Data and Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Automation and Tools**
+
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:art992398@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WitchakornThokul)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/tokki.once)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mimosa_4103/)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WitchakornThokul&theme=github_dark" height="165" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WitchakornThokul&theme=github_dark" height="165" alt="Most used languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WitchakornThokul&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-<div align="center">
+## Contact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*Thanks for visiting my profile! Don't forget to ⭐ some repos if you find them useful!*
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:art992398@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/WitchakornThokul)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/tokki.once)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mimosa_4103/)
