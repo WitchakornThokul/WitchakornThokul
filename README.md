@@ -115,17 +115,6 @@ flowchart LR
 
 <sub>Also: React Native, Expo, Google Apps Script, Google Sheets, Slim Framework.</sub>
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WitchakornThokul&theme=github_dark" height="165" alt="GitHub stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WitchakornThokul&theme=github_dark" height="165" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WitchakornThokul&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_border=true" width="100%" alt="Contribution graph"/>
-</p>
-
 ## Contact
 
 <p>
