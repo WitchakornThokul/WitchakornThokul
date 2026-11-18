@@ -47,7 +47,7 @@ flowchart LR
     P --> E[ESG Disclosure]
     L -->|Realtime| S[(Supabase<br/>PostgreSQL)]
     D --> S
-    K --> G[(Automated<br/>collectors)]
+    K --> G[(Python ETL<br/>PostgreSQL)]
     M --> G
     E --> X[(Google Sheets)]
 
@@ -61,12 +61,12 @@ flowchart LR
 
 | System | What it does | Built with |
 |---|---|---|
-| **Smart Logistics Platform** | Transport planning from sales orders, vehicle booking calendar, weighbridge ticket matching, shipment tracking | Cloudflare Workers, Supabase Realtime |
-| **Central Portal (SSO)** | One sign-in and launcher for every internal app | Cloudflare Pages |
-| **DocAlert** | Contract and document renewals with approvals and email alerts | Cloudflare Pages, Supabase |
-| **Smart Business Dashboard** | Company KPIs, task-first navigation, collector health view | Cloudflare Pages |
-| **Mini Business Dashboard** | Lightweight KPI view with role-based overrides | Cloudflare Pages |
-| **ESG Disclosure Site** | Bilingual Thai / English ESG reporting across five categories | React, Vite, Google Sheets |
+| **Smart Logistics Platform** | Transport planning from sales orders, vehicle booking calendar, weighbridge ticket matching, shipment tracking | Next.js, TypeScript, Tailwind CSS, Supabase Realtime, Three.js, Cloudflare Workers (OpenNext) |
+| **Central Portal (SSO)** | One sign-in and launcher for every internal app | React, Vite, Tailwind CSS, Supabase, Three.js, Cloudflare Pages Functions |
+| **DocAlert** | Contract and document renewals with approvals and email alerts | React, TypeScript, Vite, React Router, Tailwind CSS, Supabase, Cloudflare Pages |
+| **Smart Business Dashboard** | Company KPIs, task-first navigation, collector health view | React, Vite, Tailwind CSS, ECharts, Python ETL, PostgreSQL, Cloudflare Pages |
+| **Mini Business Dashboard** | Lightweight KPI view with role-based overrides | React, Vite, Tailwind CSS, Supabase, Cloudflare Pages |
+| **ESG Disclosure Site** | Bilingual Thai / English ESG reporting across five categories | React, Vite, Tailwind CSS, Supabase, Google Sheets |
 
 <details>
 <summary><b>Recent engineering notes from the Smart Logistics Platform</b></summary>
@@ -121,6 +121,7 @@ flowchart LR
     <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=tailwind" width="44" height="44" alt="Tailwind CSS"/><br/><sub>Tailwind CSS</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=angular" width="44" height="44" alt="Angular"/><br/><sub>Angular</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=bootstrap" width="44" height="44" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=threejs" width="44" height="44" alt="Three.js"/><br/><sub>Three.js</sub></td>
   </tr>
   <tr>
     <td width="150"><b>Mobile</b></td>
